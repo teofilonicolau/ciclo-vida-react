@@ -3,7 +3,8 @@
 Este projeto foi criado como parte de um exercício para aprender sobre o ciclo de vida de componentes em React, utilizando o hook `useEffect` e `useState`. A aplicação contém diversos componentes interativos que demonstram como gerenciar e atualizar o estado dentro de um componente React, bem como sincronizar com o Local Storage e lidar com eventos de DOM como o redimensionamento da janela.
 ![image](https://github.com/user-attachments/assets/728193f0-b5f3-48f9-b9ac-f0dedb9735c6)
 
-
+## Página sa Aplicacao:
+https://ciclo-vida-react.vercel.app/
 ## Estrutura do Projeto
 
 O projeto segue a seguinte estrutura de diretórios:
